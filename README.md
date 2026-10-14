@@ -1,4 +1,3 @@
-# FMCG-Sales-Data-Analysis
 # FMCG Sales Analysis Dashboard
 
 ## Project Overview
