@@ -52,3 +52,7 @@ The objective is to transform raw sales data into meaningful business insights a
 * Interactive dashboard creation
 * Business data visualization
 
+## Dashboard Preview
+
+![Sales Analysis Dashboard](dashboard.png)
+
